@@ -5,3 +5,5 @@ corejava
  │   ├── encapsulation
  │   ├── inheritance
  │   └── polymorphism
+New patch update 
+Excpation with basic handaling added.

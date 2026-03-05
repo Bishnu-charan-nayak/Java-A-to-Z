@@ -1,9 +1,8 @@
 /**
- *
+ * 
  */
 /**
- *
+ * 
  */
-module corejava {
-	requires java.smartcardio;
+module www.bablu {
 }

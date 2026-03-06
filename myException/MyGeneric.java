@@ -30,7 +30,7 @@ public class MyGeneric {
 			int n = sc.nextInt();
 			int[] a1 = new int[n];
 			System.out.println("Length of an array " + a1.length);
-		} catch (InputMismatchException e) {
+		} catch (InputMismatchException e) {        /////Generic catch Exception
 			System.out.println("Age can not be string");
 		} catch (ArithmeticException e) {
 			System.out.println("Denominator cant be 0");
@@ -40,7 +40,7 @@ public class MyGeneric {
 			System.out.println("Try to access within " + arr.length);
 		} catch (NegativeArraySizeException e) {
 			System.out.println("Kindly provide array size to positive integer");
-		} catch (Exception e) {
+		} catch (Exception e) {               /////Direct upper Main --->catch(Exception e ) denided
 			System.out.println("Kindly provide the right inputs");
 		}
 

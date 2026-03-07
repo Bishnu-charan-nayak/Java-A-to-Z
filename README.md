@@ -4,7 +4,9 @@ corejava
  │   ├── abstraction
  │   ├── encapsulation
  |     ├──MyGeneric(imp)
+ |     ├──MyRethrow
  │   ├── inheritance
  │   └── polymorphism
 New patch update 
 Excpation with basic handaling added.
+

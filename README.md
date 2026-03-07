@@ -3,6 +3,7 @@ corejava
  ├── src
  │   ├── abstraction
  │   ├── encapsulation
+ |     ├──MyGeneric(imp)
  │   ├── inheritance
  │   └── polymorphism
 New patch update 

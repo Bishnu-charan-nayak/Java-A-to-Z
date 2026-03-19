@@ -7,8 +7,10 @@ corejava
  |     ├──MyRethrow
  │   ├── inheritance
  │   └── polymorphism
+ |   |__Exception add
 New patch update 
 Excpation with basic handaling added.
+Exception advance add
 
 Easy to study
 

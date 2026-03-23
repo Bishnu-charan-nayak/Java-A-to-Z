@@ -10,11 +10,11 @@ corejava
  │   ├── polymorphism
  |   ├──Exception add
  |   ├──multithreading 
- |      |
+ |      ├──Runnable
 New patch update 
 Excpation with basic handaling added.
 Exception advance add(try,catch,throw,throws,finally)
-Add multithreading(Date-20-03-2026)
+Add multithreading(Date-23-03-2026)
 Easy to study
 
 Have a Great learning ❤️

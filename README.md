@@ -7,9 +7,10 @@ corejava
  |     ├──MyGeneric(imp)
  |     ├──MyRethrow
  │   ├── inheritance
- │   └── polymorphism
- |   |__Exception add
- |   |__multithreading 
+ │   ├── polymorphism
+ |   ├──Exception add
+ |   ├──multithreading 
+ |      |
 New patch update 
 Excpation with basic handaling added.
 Exception advance add(try,catch,throw,throws,finally)

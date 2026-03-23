@@ -29,7 +29,7 @@ public class Mytask {
 			e.printStackTrace();
 		}
 		for (int i = 1; i <= 10; i++) {
-			System.out.println("2x" + i + "=" + (2 * 1));
+			System.out.println("2x" + i + "=" + (2 * i));
 		}
 	}
 }

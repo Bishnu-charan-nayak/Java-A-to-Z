@@ -12,6 +12,8 @@ corejava
  |   ├──multithreading 
  |      ├──Runnable
  |   ├──ArrayList
+ |   ├──Collection 
+ |      ├──My List
 New patch update 
 Excpation with basic handaling added.
 Exception advance add(try,catch,throw,throws,finally)

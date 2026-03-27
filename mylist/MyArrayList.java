@@ -15,7 +15,7 @@ public class MyArrayList {
 	*/
 	public static void main(String[] args) {
 		
-		ArrayList a1 =new ArrayList();
+		ArrayList<Object> a1 =new ArrayList<>();
 		a1.add(10);
 		a1.add(20);
 		a1.add(30);

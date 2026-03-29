@@ -39,7 +39,7 @@ class Puppy extends Dog {
 		System.out.println("puppy object created");
 	}
 
-//@override
+//@override                 /// Over ride the method 
 	public void bark() {
 		System.out.println("puppy barks in low voice");
 	}

@@ -37,8 +37,8 @@ class Alpha{
 }
 class MyImpln extends Alpha implements MyInterf{
 	public static void main(String[] args) {
+		MyInterf .A=30;
 		System.out.println(MyInterf.A);
-	//	MyInterf .A=30;
 		
 		
 	}

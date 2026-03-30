@@ -13,6 +13,7 @@ corejava
  |      ├──Runnable
  |   ├──ArrayList
  |   ├──Collection 
+ |      ├──Method
  |      ├──My List
  |      ├──My subsring 
  |      ├──Index

@@ -8,7 +8,7 @@ class Student1 implements Comparable<Student1> {
 	String name;
 
 	public String getName() {
-		return name;
+		return nqme ;
 	}
 
 	public Student1(String name) {

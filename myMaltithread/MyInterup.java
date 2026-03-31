@@ -23,7 +23,7 @@ public class MyInterup {
 
 		public static void main(String[] args) {
 			MyBeta b = new MyBeta();
-		    b.start();
+		    b.start()
 		}
 	}
 }

@@ -20,7 +20,7 @@ corejava
  |      ├──Cpmprable
  |   ├──Java 8 features 
  |      ├──Lambda
- |      ├──
+ |      ├──Runnable using Lambada
 New patch update 
 Excpation with basic handaling added.
 Exception advance add(try,catch,throw,throws,finally)

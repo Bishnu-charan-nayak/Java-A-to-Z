@@ -2,11 +2,11 @@ package myPredicate;
 	import java.util.Scanner;
 	import java.util.function.Predicate;
 
-	class User {
+	class User1 {
 	    String name;
 	    String password;
 
-	    public User(String name, String password) {
+	    public User1(String name, String password) {
 	        this.name = name;
 	        this.password = password;
 	    }
@@ -32,10 +32,10 @@ package myPredicate;
 	        System.out.print("Enter password: ");
 	        String pass = sc.next();
 
-	        User user = new User(name, pass);
+	        User1 user = new User1(name, pass);
 
 	        // ✅ Lambda Predicate
-	        Predicate<User> isValidUser = u ->
+	        Predicate<User1> isValidUser = u ->
 	                u.getName().equals("Rooman") &&
 	                u.getPassword().equals("Rooman@123");
 

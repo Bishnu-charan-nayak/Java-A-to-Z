@@ -21,11 +21,13 @@ corejava
  |   ├──Java 8 features 
  |      ├──Lambda
  |      ├──Runnable using Lambada
- |      ├──Password Generat 
+ |      ├──Password Generate
+ |   ├──Java14 Features
+
 New patch update.
 Excpation with basic handaling added.
 Exception advance add(try,catch,throw,throws,finally)
-Add multithreading(Date-23-03-2026)
+Add multithreading
 Easy to study
 
 Have a Great learning ❤️

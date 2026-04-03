@@ -21,7 +21,7 @@ corejava
  |   ├──Java 8 features 
  |      ├──Lambda
  |      ├──Runnable using Lambada
-New patch update 
+New patch update.
 Excpation with basic handaling added.
 Exception advance add(try,catch,throw,throws,finally)
 Add multithreading(Date-23-03-2026)

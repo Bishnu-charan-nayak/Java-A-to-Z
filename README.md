@@ -21,6 +21,7 @@ corejava
  |   ├──Java 8 features 
  |      ├──Lambda
  |      ├──Runnable using Lambada
+ |      ├──Password Generat 
 New patch update.
 Excpation with basic handaling added.
 Exception advance add(try,catch,throw,throws,finally)

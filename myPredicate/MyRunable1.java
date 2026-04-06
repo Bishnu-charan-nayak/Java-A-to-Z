@@ -22,7 +22,7 @@ public class MyRunable1 {
 		        };
 
 		        // Start both threads
-		    
+		        new Thread(r).start();
 		        new Thread(r1).start();
 		    }
 		}

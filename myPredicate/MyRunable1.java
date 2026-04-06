@@ -26,3 +26,4 @@ public class MyRunable1 {
 		        new Thread(r1).start();
 		    }
 		}
+//Java 8 Feature Runable using Lamda 

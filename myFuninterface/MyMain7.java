@@ -10,18 +10,18 @@ interface Opns{
 //	}
 //}
 
-// public class MyMain7 {
-//     public static void main(String[] args) {
+public class MyMain7 {
+    public static void main(String[] args) {
 
-//         Opns obj = (int a, int b) -> {
-//             int c = a + b;
-//             System.out.println("Sum is " + c);
-//         };
+        Opns obj = (int a, int b) -> {
+            int c = a + b;
+            System.out.println("Sum is " + c);
+        };
 
-//         // calling method	
-//         obj.add(10, 20);
-//     }
-// }
+        // calling method	
+        obj.add(10, 20);
+    }
+}
 // interface Opns {
 //     int execute(int a, int b); // Changed to return int
 // }
@@ -35,17 +35,17 @@ interface Opns{
 //         Opns multiply = (a, b) -> a * b;
 
 
-import java.util.function.BiConsumer;
+// import java.util.function.BiConsumer;
 
-public class MyMain7 {
-    public static void main(String[] args) {
-        BiConsumer<Integer, Integer> add = (a, b) -> {
-            System.out.println("Sum is " + (a + b));
-        };
+// public class MyMain7 {
+//     public static void main(String[] args) {
+//         BiConsumer<Integer, Integer> add = (a, b) -> {
+//             System.out.println("Sum is " + (a + b));
+//         };
 
-        add.accept(10, 20);
-    }
-}
+//         add.accept(10, 20);
+//     }
+// }
 //         System.out.println("Addition: " + add.execute(10, 20));
 //         System.out.println("Multiplication: " + multiply.execute(10, 20));
 //     }

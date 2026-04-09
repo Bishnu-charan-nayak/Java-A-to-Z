@@ -3,7 +3,7 @@ package myMaltithread;
 class Test extends Thread
 {
 	@Override
-	public void run() {
+	public void run(){
 		
 		String name = Thread.currentThread().getName();
 		if(name.equals("printchar"))

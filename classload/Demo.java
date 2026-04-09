@@ -7,7 +7,7 @@ package classload;
 	public void display() {
 		System.out.println("inside display");
 		System.out.println(a);
-		System.out.println(b);
+		System.out.println(b); 
 	}
 
    }

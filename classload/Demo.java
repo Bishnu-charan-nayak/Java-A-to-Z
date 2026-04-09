@@ -23,3 +23,29 @@ package classload;
 	}
 		
 	
+
+// Use Constructor for pratice
+
+	package classload;
+
+class Calculator {
+    int x;
+    int y;
+
+    // Constructor to initialize values
+    Calculator(int first, int second) {
+        this.x = first;
+        this.y = second;
+    }
+
+    public void add() {
+        System.out.println("Sum: " + (x + y));
+    }
+}
+
+public class ConstructorDemo {
+    public static void main(String[] args) {
+        Calculator obj = new Calculator(50, 25); // Passing values here
+        obj.add();
+    }
+}

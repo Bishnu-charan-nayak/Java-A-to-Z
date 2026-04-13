@@ -29,6 +29,8 @@ New patch update.
 Excpation with basic handaling added.
 Exception advance add(try,catch,throw,throws,finally)
 Add multithreading
+Java8 Feature Mapping Added to 
+
 Easy to study
 
 Have a Great learning ❤️

@@ -22,6 +22,7 @@ corejava
  |      ├──Lambda
  |      ├──Runnable using Lambada
  |      ├──Password Generate
+ |      ├──Map
  |   ├──Java14 Features
 
 New patch update.

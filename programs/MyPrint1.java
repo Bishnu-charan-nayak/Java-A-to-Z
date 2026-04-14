@@ -10,7 +10,7 @@ class Mychar {
 		}
 	}
 }
-public class MyPrint1{
+public class MyPrint1{ 
 	public static void main(String[] args) {
        Mychar.Print1();
 	}

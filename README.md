@@ -24,6 +24,8 @@ corejava
  |      ├──Password Generate
  |      ├──Map
  |   ├──Java14 Features
+ |   ├──JDBC(Basic)
+ |   ├──Spring
 
 New patch update.
 Excpation with basic handaling added.

@@ -3,7 +3,7 @@ package com.IncrementOperator;
 public class Myincrement {
 
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		int x=100;
 		int y=120;
        int z=(++x)+(--x)+(++y)+(y++)+(--y);

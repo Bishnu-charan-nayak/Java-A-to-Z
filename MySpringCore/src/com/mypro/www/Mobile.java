@@ -1,34 +1,25 @@
-package com.mypro.www;
-
-public class Mobile {
-
-	public static void main(String[] args) {
-		
-		
-
-		 new ClassPathXml
-		
-		
+//package com.mypro.www;
+//import org.springframework.context.ApplicationContext;
+//import org.springframework.context.support.ClassPathXmlApplicationContext;
+//
+//public class Mobile {
+//	
+//	public static void main(String[] args) {
 //		
-//		Sim sim=new Airtel();
-//		sim.calling();
-//		sim.data();
+//		ApplicationContext context = new ClassPathXmlApplicationContext("sims.xml");
+//		Airtel air = (Airtel) context.getBean("air");
+//		air.calling();
+//		air.data();
+//		
+//		Vodafone voda = (Vodafone) context.getBean("voda");
+//		voda.calling();
+//		voda.data();
+//		
+//		Jio jio = context.getBean("jio",Jio.class);
+//		jio.calling();
+//		jio.data();
 //		
 //		
-//		sim=new Vodafone();
-//		sim.calling();
-//		sim.data();
-		
-		
-		
-
-		/*
-		 * Airtel air = new Airtel(); air.calling(); air.data();
-		 * 
-		 * 
-		 * Vodafone voda = new Vodafone(); voda.calling(); voda.data();
-		 */	
-		
-	}
-
-}
+//	}
+//
+//}

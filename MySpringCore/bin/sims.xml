@@ -7,4 +7,12 @@
     <!-- bean definitions here -->
 
 <bean id = "air" class="com.mypro.www.Airtel"></bean>
+<bean id = "voda" class = "com.mypro.www.Vodafone"></bean>
+<bean id = "jio" class = "com.mypro.www.Jio"></bean>
+<bean id = "mo" class = "com.mypro.www.Mobile1">
+
+<constructor-arg name= "s" ref="jio"></constructor-arg>
+
+</bean>
+
 </beans>

@@ -3,7 +3,7 @@ package myException;
 import java.util.Scanner;
 
 public class MyExp3 {
-
+ 
 	public static void main(String[] args) {
 
   Scanner scan =new Scanner(System.in);

@@ -1,5 +1,5 @@
 package constroctors;
-	class Calculator {
+	class Calculator  {
 
 	    void add(int a) {
 	        int c = 10 + a;

@@ -7,7 +7,7 @@ package inheritance;
 	}
 }
 class HDFCCard extends Card{
-	public void CreditLimite() {
+	public void CreditLimite() { 
 		System.out.println("inside HDFC card credit limite()");
 	}
 }

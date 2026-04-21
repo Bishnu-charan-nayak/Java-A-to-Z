@@ -10,7 +10,7 @@ package classload;
 		System.out.println(b); 
 	}
 
-   }
+   } 
  
 	
 	public class Demo {

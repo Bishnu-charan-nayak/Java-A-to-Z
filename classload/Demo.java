@@ -15,7 +15,7 @@ package classload;
 	
 	public class Demo {
 		
-	public static void main(String[] args) {
+	public static void main(String[] args) 
       Eemo d= new Eemo();
       d.display();
 	   }

@@ -16,7 +16,7 @@ corejava
  |      ├──Method
  |      ├──My List
  |      ├──My subsring 
- |      ├──Index
+ |      ├──Index 
  |      ├──Cpmprable
  |   ├──Java 8 features 
  |      ├──Lambda
@@ -39,7 +39,7 @@ Java8 Feature Mapping Added to
 Core Spring Boot on 
 For depedence use Spring initializr.
 Also I Add some common More Requrment Depedence.
-If Use Eclipse Config file Use Youtube to Clearify
+If Use Eclipse Config file Use Youtube to Clearify.Some Spring dependency add.
 
 Easy to study
 
